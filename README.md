@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizky Ryan Sahadha</h1>
 <h3 align="center">A Passionate Front-end Developer and UI/UX Designer</h3>
 
-<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezzky&label=Profile%20Views&color=0eb429&style=flat-square" alt="mezzky" /> </p>
 
