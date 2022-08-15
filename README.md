@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on [Blackrock](https://blackrock.com/)
+- 👯 I’m looking to collaborate on [Blackrock](https://www.blackrock.com/corporate)
 
 - 🤝 I’m looking for help with [Google](https://www.google.com/)
 
