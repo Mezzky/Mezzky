@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Google](https://www.google.com/)
 
-- 💬 Ask me about **Website and Gaming**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ryansahadha@gmail.com**
 
@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/moltzen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moltzen" height="30" width="40" /></a>
 <a href="https://twitter.com/mezzrysh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mezzrysh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rizky-ryan-sahadha-187161225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky-ryan-sahadha-187161225" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16438805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16438805" height="30" width="40" /></a>
