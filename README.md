@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ryansahadha@gmail.com**
 
-- ⚡ Fun fact **I love Calisthenic**
+- ⚡ Fun fact **I love Calisthenic Too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
