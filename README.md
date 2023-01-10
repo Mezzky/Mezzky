@@ -1,4 +1,4 @@
-<h1 align="center">ab👋, c'c  R izky Ryan Sahadha</h1>
+<h1 align="center">ab👋, c'c  R i zky Ryan Sahadha</h1>
 <h3 align="center">a Passionate Front-end Developer and UI/UX Designer</h3>
 
 <p align="right"> <img align="right" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> </p>
