@@ -5,19 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezzky&label=Profile%20Views&color=0eb429&style=flat-square" alt="mezzky"/> </p>
 
-- 🔭 I’m currently working on [Wordmogul](https://wordmogul.com/)
+- 🔭 I’m currently working on [Home](#)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on [Blackrock](https://www.blackrock.com/corporate)
 
-- 🤝 I’m looking for help with [Google](https://www.google.com/)
+- 🤝 I’m looking for help with [ChatGPT]([https://www.google.com/](https://chat.openai.com/))
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ryansahadha@gmail.com**
-
-- ⚡ Fun fact **I love Calisthenic Too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
