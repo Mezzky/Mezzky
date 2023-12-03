@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Rizky Ryan S a hadha</h1>
+<h1 align="center">Hi👋, I'm Rizky Ryan S ahadha</h1>
 <h3 align="center">A Passionate Front-end Developer and UI/UX Designer</h3>
 
 <p align="right"> <img align="right" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> </p>
