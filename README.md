@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezzky&label=Profile%20Views&color=0eb429&style=flat-square" alt="mezzky"/> </p>
 
-- 🔭 I’m currently working on [Aera Projec](#)
+- 🔭 I’m currently working on [Aera Project](#)
 
 - 🌱 I’m currently learning **ReactJS**
 
