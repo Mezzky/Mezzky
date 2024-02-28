@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Aera Project](#)
 
-- 🌱 I’m currently learning **ReactJS** & **Vu
+- 🌱 I’m currently learning **ReactJS** & **Vue
 
 - 👯 I’m looking to collaborate on [Blackrock](https://www.blackrock.com/corporate)
 
