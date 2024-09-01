@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS** & **VueJS**
 
-- 👯 I’m an active freelance on [Fiverr](https://www.fiverr.com/mezzky?up_rollout=true)
+- 👯 I’m an active freelance on [Fiverr](https://www.fiverr.com/mezzky?up_rollout=true) & [Upwork](https://www.upwork.com/freelancers/~014a3ef8b0ddce889b)
 
 - 🤝 I’m looking for help with [ChatGPT]([https://www.google.com/](https://chat.openai.com/))
 
