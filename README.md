@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS** & **VueJS**
 
-- 👯 I’m looking to collaborate on [Blackrock](https://www.blackrock.com/corporate)
+- 👯 I’m an active freelance on [Fiverr](https://www.fiverr.com/mezzky?up_rollout=true)
 
 - 🤝 I’m looking for help with [ChatGPT]([https://www.google.com/](https://chat.openai.com/))
 
