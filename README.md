@@ -5,15 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezzky&label=Profile%20Views&color=0eb429&style=flat-square" alt="mezzky"/> </p>
 
-- 🔭 I’m currently working on [Aera Project](#)
-
-- 🌱 I’m currently learning **ReactJS** & **VueJS**
+- 🔭 I’m currently working on Rave Tech Pte. Ltd, and Luxbali.
+- 🌱 I’m currently learning **NextJS** & **NuxtJS**
 
 - 👯 I’m an active freelance on [Fiverr](https://www.fiverr.com/mezzky?up_rollout=true) & [Upwork](https://www.upwork.com/freelancers/~014a3ef8b0ddce889b)
 
 - 🤝 I’m looking for help with [ChatGPT]([https://www.google.com/](https://chat.openai.com/))
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and UI/UX Designer**
 
 - 📫 How to reach me **ryansahadha@gmail.com**
 
